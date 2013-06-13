@@ -1,0 +1,6 @@
+[submodule "reveal.js"]
+	path = reveal.js
+	url = https://github.com/hakimel/reveal.js.git
+[submodule "polymer-all"]
+	path = polymer-all
+	url = https://github.com/Polymer/polymer-all.git
